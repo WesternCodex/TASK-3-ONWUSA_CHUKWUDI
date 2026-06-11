@@ -29,4 +29,4 @@ This project analyzes a sales dataset using SQL to uncover customer behavior, pr
 * Evaluated the impact of payment methods and referral sources.
 
 ## Author
-Chukwudi Onwusa
+**Chukwudi Onwusa**
