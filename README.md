@@ -3,15 +3,15 @@ Sales dataset using SQL to uncover customer behavior, product performance, sales
 
 # Sales Data Analysis Using SQL
 
-# Overview
+## Overview
 
 This project analyzes a sales dataset using SQL to uncover customer behavior, product performance, sales trends, and payment preferences.
 
-# Tools Used
+## Tools Used
 * MySQL
 * Microsoft Excel
 
-# Analysis Performed
+## Analysis Performed
 * Calculated key business KPIs
 * Detected duplicate orders and repeat customers
 * Analyzed product sales and revenue
@@ -21,12 +21,12 @@ This project analyzes a sales dataset using SQL to uncover customer behavior, pr
 * Identified top customers and highest-value orders
 * Analyzed monthly and yearly sales trends
 
-# Key Insights
+## Key Insights
 * Identified top-selling products.
 * Found repeat customers.
 * Measured total revenue and average order value.
 * Discovered monthly and yearly sales patterns.
 * Evaluated the impact of payment methods and referral sources.
 
-# Author
+## Author
 Chukwudi Onwusa
